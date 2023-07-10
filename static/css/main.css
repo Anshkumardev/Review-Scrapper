@@ -1,15 +1,16 @@
 body, html {
     margin: 0;
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
 
-.content {
+.container {
     margin: 0 auto;
-    width: 400px;
+    max-width: 600px;
+    padding: 20px;
 }
 
-table, td, th {
-    border: 1px solid #aaa;
+h1 {
+    text-align: center;
 }
 
 table {
@@ -17,19 +18,32 @@ table {
     width: 100%;
 }
 
-th {
-    height: 30px;
+th, td {
+    border: 1px solid #aaa;
+    padding: 10px;
 }
 
-td {
-    text-align: center;
-    padding: 5px;
+th {
+    height: 40px;
+    background-color: #f2f2f2;
 }
 
 .form {
     margin-top: 20px;
+    text-align: center;
 }
 
 #content {
     width: 70%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
 }

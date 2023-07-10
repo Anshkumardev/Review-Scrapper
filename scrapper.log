@@ -5386,3 +5386,241 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:11] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:11] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:12] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'Iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'Iphone11', 'Name': 'Mukesh Thakor', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product 👌I love iPhone'}, {'Product': 'Iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'Iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'Iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'Iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'Iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'Product': 'Iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.'}, {'Product': 'Iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'Iphone11', 'Name': 'Sonam Lama', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'very good camera quality'}]
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:21] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:28:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:15] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:20] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:29] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14pro', 'Name': 'Salman khan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just WOW!! Best in all segment!!'}, {'Product': 'Iphone14pro', 'Name': 'Ashutosh Gupta', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Camera Awesome and overall mobile look is Cool'}, {'Product': 'Iphone14pro', 'Name': 'Subham Roy', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome 😎🍫🥰'}, {'Product': 'Iphone14pro', 'Name': 'Pratik Raj', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Superb performance and well.'}, {'Product': 'Iphone14pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'CAMERA IS SUPERB'}, {'Product': 'Iphone14pro', 'Name': 'Rohith Menon', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Best ❤️🔥🔥'}, {'Product': 'Iphone14pro', 'Name': 'Rishabh Srivastava', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Just Awesome Best phone forever and Good Gaming Experience and Battery life .Specially Camera superb ❤️❤️❤️'}, {'Product': 'Iphone14pro', 'Name': 'Dr Ch Ravi Shanker ', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Awesome iPhone with best camera quality 48 megapixel is 👌'}, {'Product': 'Iphone14pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Excellent product awesome camera super fast'}, {'Product': 'Iphone14pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'My first iPhone.. And full satisfied..'}, {'Product': 'Iphone14pro', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'My first iPhone.. And full satisfied..'}]
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:34] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:42] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [10/Jul/2023 23:38:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:12] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:root:name 'MongoClient' is not defined
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:11:20] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Mukesh Thakor', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product 👌I love iPhone'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'Product': 'iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'very good camera quality'}]
+INFO:root:name 'MongoClient' is not defined
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:12:29] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:07] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:07] "GET /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:13] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:36] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:root:name 'MongoClient' is not defined
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:13:42] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:01] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:18:06] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:20:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:20:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:20:53] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:20:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:21:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:21:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:21:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:29:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:01] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:01] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:08] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:30:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:50] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:50] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:31:57] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:03] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:03] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:35:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:29] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:29] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'Iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'Iphone14', 'Name': 'Deepanshu Arora', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My First iphone experience even though its 60hz refresh rate but feels so smooth and optimized and performance is top notch🔥..if u r looking for an iphone 13..go for i phone 14 trust me u will love it❤️'}, {'Product': 'Iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'Iphone14', 'Name': 'Kajapriya Kannan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Performance is really good and camera quality is fine'}, {'Product': 'Iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'Iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'Iphone14', 'Name': 'Ajith Ummanath', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No words to express the gratitude to Flipkart... Fastest delivery | Open box validation andObviously the phone itself is a different era ..#iPhone 14 | iOS 16'}, {'Product': 'Iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:35] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:53] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:53] "GET / HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'Iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'Iphone11', 'Name': 'Mukesh Thakor', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product 👌I love iPhone'}, {'Product': 'Iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'Iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'Iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'Iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'Iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'Product': 'Iphone11', 'Name': 'Shwarif  Hussain', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Excellent Phone.'}, {'Product': 'Iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'Iphone11', 'Name': 'Sonam Lama', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'very good camera quality'}]
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Jul/2023 00:36:59] "GET /review HTTP/1.1" 200 -
