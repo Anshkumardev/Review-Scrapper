@@ -1,6 +1,5 @@
 # Review-Scrapper
 
-# Review Scraper
 
 Review Scraper is a web application built with Flask that allows users to search for products on Flipkart and retrieve customer reviews for the searched product.
 
