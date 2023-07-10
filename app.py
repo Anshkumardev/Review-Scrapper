@@ -73,6 +73,15 @@ def index():
                           "Comment": custComment}
                 reviews.append(mydict)
             logging.info("log my final result {}".format(reviews))
+
+            uri = "mongodb+srv://anshkumardev:<password>@cluster0.8jipmvh.mongodb.net/?retryWrites=true&w=majority"
+            # Create a new client and connect to the server
+            client = MongoClient(uri)
+
+            db = client["review_scrap"]
+            review_coll = db["review_data"]
+
+            review_coll.insert_many(reviews)
             
             return render_template('result.html', reviews=reviews[0:(len(reviews)-1)])
         except Exception as e:
